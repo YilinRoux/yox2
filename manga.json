@@ -1,16 +1,16 @@
 [
     {
-        "id": 1,
-        "title": "Attack on Titan",
-        "description": "Humanity's fight for survival against giant humanoid creatures.",
-        "release_date": "2013-04-07"
-    },
-    {
-        "id": 2,
-        "title": "Naruto",
-        "description": "The story of Naruto Uzumaki, a young ninja who seeks recognition and dreams of becoming the Hokage.",
-        "release_date": "2002-10-03"
-    },
+    "id": 1,
+    "title": "Manga Example",
+    "author": "Author Name",
+    "genre": "Action"
+  },
+  {
+    "id": 2,
+    "title": "Another Manga",
+    "author": "Another Author",
+    "genre": "Adventure"
+  }
     {
         "id": 3,
         "title": "Fullmetal Alchemist: Brotherhood",
