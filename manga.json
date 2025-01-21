@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Attack on Titan",
+        "description": "Humanity's fight for survival against giant humanoid creatures.",
+        "release_date": "2013-04-07"
+    },
+    {
+        "id": 2,
+        "title": "Naruto",
+        "description": "The story of Naruto Uzumaki, a young ninja who seeks recognition and dreams of becoming the Hokage.",
+        "release_date": "2002-10-03"
+    },
+    {
+        "id": 3,
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "description": "Two brothers use alchemy to try to bring their mother back to life, leading them on a journey to find the Philosopher's Stone.",
+        "release_date": "2009-04-05"
+    },
+    {
+        "id": 4,
+        "title": "My Hero Academia",
+        "description": "In a world where nearly every human has a superpower, a powerless boy strives to become a hero.",
+        "release_date": "2016-04-03"
+    },
+    {
+        "id": 5,
+        "title": "Demon Slayer",
+        "description": "A young boy fights demons to avenge his family and cure his sister, who has been turned into a demon.",
+        "release_date": "2019-04-06"
+    },
+    {
+        "id": 6,
+        "title": "One Piece",
+        "description": "Monkey D. Luffy and his pirate crew seek the greatest treasure ever left by the legendary Pirate, Gold Roger.",
+        "release_date": "1999-10-20"
+    },
+    {
+        "id": 7,
+        "title": "Dragon Ball Z",
+        "description": "The adventures of Goku and his friends as they defend the Earth from powerful enemies.",
+        "release_date": "1989-04-26"
+    },
+    {
+        "id": 8,
+        "title": "Death Note",
+        "description": "A high school student discovers a supernatural notebook that allows him to kill anyone whose name he writes in it.",
+        "release_date": "2006-10-03"
+    },
+    {
+        "id": 9,
+        "title": "One Punch Man",
+        "description": "A hero who can defeat any opponent with a single punch struggles with boredom and finding a real challenge.",
+        "release_date": "2015-10-05"
+    },
+    {
+        "id": 10,
+        "title": "Sword Art Online",
+        "description": "Players of a virtual reality MMORPG find themselves trapped in the game, with death in the game meaning death in real life.",
+        "release_date": "2012-07-08"
+    }
+]
