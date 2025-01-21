@@ -1,5 +1,5 @@
 [
-    {
+  {
     "id": 1,
     "title": "Manga Example",
     "author": "Author Name",
@@ -10,294 +10,113 @@
     "title": "Another Manga",
     "author": "Another Author",
     "genre": "Adventure"
+  },
+  {
+    "id": 3,
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "description": "Two brothers use alchemy to try to bring their mother back to life, leading them on a journey to find the Philosopher's Stone.",
+    "release_date": "2009-04-05"
+  },
+  {
+    "id": 4,
+    "title": "My Hero Academia",
+    "description": "In a world where nearly every human has a superpower, a powerless boy strives to become a hero.",
+    "release_date": "2016-04-03"
+  },
+  {
+    "id": 5,
+    "title": "Demon Slayer",
+    "description": "A young boy fights demons to avenge his family and cure his sister, who has been turned into a demon.",
+    "release_date": "2019-04-06"
+  },
+  {
+    "id": 6,
+    "title": "One Piece",
+    "description": "Monkey D. Luffy and his pirate crew seek the greatest treasure ever left by the legendary Pirate, Gold Roger.",
+    "release_date": "1999-10-20"
+  },
+  {
+    "id": 7,
+    "title": "Dragon Ball Z",
+    "description": "The adventures of Goku and his friends as they defend the Earth from powerful enemies.",
+    "release_date": "1989-04-26"
+  },
+  {
+    "id": 8,
+    "title": "Death Note",
+    "description": "A high school student discovers a supernatural notebook that allows him to kill anyone whose name he writes in it.",
+    "release_date": "2006-10-03"
+  },
+  {
+    "id": 9,
+    "title": "One Punch Man",
+    "description": "A hero who can defeat any opponent with a single punch struggles with boredom and finding a real challenge.",
+    "release_date": "2015-10-05"
+  },
+  {
+    "id": 10,
+    "title": "Sword Art Online",
+    "description": "Players of a virtual reality MMORPG find themselves trapped in the game, with death in the game meaning death in real life.",
+    "release_date": "2012-07-08"
+  },
+  {
+    "id": 11,
+    "title": "Tokyo Ghoul",
+    "description": "A college student becomes a half-ghoul after a near-fatal encounter, and struggles with his new identity.",
+    "release_date": "2014-07-03"
+  },
+  {
+    "id": 12,
+    "title": "Neon Genesis Evangelion",
+    "description": "A young pilot is recruited to defend humanity from mysterious beings called Angels using giant bio-mechanical robots.",
+    "release_date": "1995-10-05"
+  },
+  {
+    "id": 13,
+    "title": "Hunter x Hunter",
+    "description": "A young boy embarks on a quest to find his missing father and become a Hunter.",
+    "release_date": "2011-10-02"
+  },
+  {
+    "id": 14,
+    "title": "Bleach",
+    "description": "A teenager acquires the powers of a Soul Reaper to protect the world from evil spirits.",
+    "release_date": "2004-10-05"
+  },
+  {
+    "id": 15,
+    "title": "Fairy Tail",
+    "description": "The adventures of Natsu Dragneel and his friends in the magical guild, Fairy Tail.",
+    "release_date": "2009-10-12"
+  },
+  {
+    "id": 16,
+    "title": "Cowboy Bebop",
+    "description": "A group of bounty hunters travel the galaxy in search of dangerous criminals.",
+    "release_date": "1998-04-03"
+  },
+  {
+    "id": 17,
+    "title": "Steins;Gate",
+    "description": "A group of friends discover time travel, but their actions create unintended consequences.",
+    "release_date": "2011-04-06"
+  },
+  {
+    "id": 18,
+    "title": "Your Name",
+    "description": "Two teenagers swap bodies and try to meet each other in person while uncovering a mystery.",
+    "release_date": "2016-08-26"
+  },
+  {
+    "id": 19,
+    "title": "Spirited Away",
+    "description": "A young girl is trapped in a mysterious, magical world and must find a way to escape.",
+    "release_date": "2001-07-20"
+  },
+  {
+    "id": 20,
+    "title": "Fruits Basket",
+    "description": "A girl is taken in by a family cursed to turn into animals of the Chinese Zodiac.",
+    "release_date": "2001-07-05"
   }
-    {
-        "id": 3,
-        "title": "Fullmetal Alchemist: Brotherhood",
-        "description": "Two brothers use alchemy to try to bring their mother back to life, leading them on a journey to find the Philosopher's Stone.",
-        "release_date": "2009-04-05"
-    },
-    {
-        "id": 4,
-        "title": "My Hero Academia",
-        "description": "In a world where nearly every human has a superpower, a powerless boy strives to become a hero.",
-        "release_date": "2016-04-03"
-    },
-    {
-        "id": 5,
-        "title": "Demon Slayer",
-        "description": "A young boy fights demons to avenge his family and cure his sister, who has been turned into a demon.",
-        "release_date": "2019-04-06"
-    },
-    {
-        "id": 6,
-        "title": "One Piece",
-        "description": "Monkey D. Luffy and his pirate crew seek the greatest treasure ever left by the legendary Pirate, Gold Roger.",
-        "release_date": "1999-10-20"
-    },
-    {
-        "id": 7,
-        "title": "Dragon Ball Z",
-        "description": "The adventures of Goku and his friends as they defend the Earth from powerful enemies.",
-        "release_date": "1989-04-26"
-    },
-    {
-        "id": 8,
-        "title": "Death Note",
-        "description": "A high school student discovers a supernatural notebook that allows him to kill anyone whose name he writes in it.",
-        "release_date": "2006-10-03"
-    },
-    {
-        "id": 9,
-        "title": "One Punch Man",
-        "description": "A hero who can defeat any opponent with a single punch struggles with boredom and finding a real challenge.",
-        "release_date": "2015-10-05"
-    },
-    {
-        "id": 10,
-        "title": "Sword Art Online",
-        "description": "Players of a virtual reality MMORPG find themselves trapped in the game, with death in the game meaning death in real life.",
-        "release_date": "2012-07-08"
-    },
-    {
-        "id": 11,
-        "title": "Tokyo Ghoul",
-        "description": "A college student becomes a half-ghoul after a near-fatal encounter, and struggles with his new identity.",
-        "release_date": "2014-07-03"
-    },
-    {
-        "id": 12,
-        "title": "Neon Genesis Evangelion",
-        "description": "A young pilot is recruited to defend humanity from mysterious beings called Angels using giant bio-mechanical robots.",
-        "release_date": "1995-10-05"
-    },
-    {
-        "id": 13,
-        "title": "Hunter x Hunter",
-        "description": "A young boy embarks on a quest to find his missing father and become a Hunter.",
-        "release_date": "2011-10-02"
-    },
-    {
-        "id": 14,
-        "title": "Bleach",
-        "description": "A teenager acquires the powers of a Soul Reaper to protect the world from evil spirits.",
-        "release_date": "2004-10-05"
-    },
-    {
-        "id": 15,
-        "title": "Fairy Tail",
-        "description": "The adventures of Natsu Dragneel and his friends in the magical guild, Fairy Tail.",
-        "release_date": "2009-10-12"
-    },
-    {
-        "id": 16,
-        "title": "Cowboy Bebop",
-        "description": "A group of bounty hunters travel the galaxy in search of dangerous criminals.",
-        "release_date": "1998-04-03"
-    },
-    {
-        "id": 17,
-        "title": "Steins;Gate",
-        "description": "A group of friends discover time travel, but their actions create unintended consequences.",
-        "release_date": "2011-04-06"
-    },
-    {
-        "id": 18,
-        "title": "Your Name",
-        "description": "Two teenagers swap bodies and try to meet each other in person while uncovering a mystery.",
-        "release_date": "2016-08-26"
-    },
-    {
-        "id": 19,
-        "title": "Spirited Away",
-        "description": "A young girl is trapped in a mysterious, magical world and must find a way to escape.",
-        "release_date": "2001-07-20"
-    },
-    {
-        "id": 20,
-        "title": "Fruits Basket",
-        "description": "A girl is taken in by a family cursed to turn into animals of the Chinese Zodiac.",
-        "release_date": "2001-07-05"
-    },
-    {
-        "id": 21,
-        "title": "Black Clover",
-        "description": "A boy born without magic in a world where magic is everything, aspires to become the Wizard King.",
-        "release_date": "2017-10-03"
-    },
-    {
-        "id": 22,
-        "title": "Re:Zero",
-        "description": "A young man is transported to another world where he discovers that he can reset time after his death.",
-        "release_date": "2016-03-23"
-    },
-    {
-        "id": 23,
-        "title": "Violet Evergarden",
-        "description": "A young woman, formerly a soldier, seeks to learn about emotions and human connections after the war.",
-        "release_date": "2018-01-10"
-    },
-    {
-        "id": 24,
-        "title": "The Promised Neverland",
-        "description": "A group of children uncover dark secrets about their orphanage and plan to escape.",
-        "release_date": "2019-01-11"
-    },
-    {
-        "id": 25,
-        "title": "The Rising of the Shield Hero",
-        "description": "A man is transported to another world where he becomes the Shield Hero and must protect the kingdom.",
-        "release_date": "2019-01-09"
-    }, 
-    {
-        "id": 26,
-        "title": "Clannad",
-        "description": "A high school student with a troubled past discovers friendship, love, and family in his journey through life.",
-        "release_date": "2007-10-04"
-    },
-
-    {
-        "id": 27,
-        "title": "Erased",
-        "description": "A man is sent back in time to prevent a series of murders, starting with the death of his childhood friend.",
-        "release_date": "2016-01-08"
-    },
-    {
-        "id": 28,
-        "title": "Toradora!",
-        "description": "A romantic comedy about two high school students who help each other pursue their respective crushes.",
-        "release_date": "2008-10-02"
-    },
-    {
-        "id": 29,
-        "title": "Noragami",
-        "description": "A minor deity seeking fame and recognition takes on odd jobs to build his reputation.",
-        "release_date": "2014-01-05"
-    },
-    {
-        "id": 30,
-        "title": "Code Geass",
-        "description": "A young man gains the power of absolute obedience and uses it to lead a rebellion against a tyrannical empire.",
-        "release_date": "2006-10-05"
-    },
-    {
-        "id": 31,
-        "title": "Akame ga Kill!",
-        "description": "A young swordsman joins a group of assassins fighting a corrupt empire.",
-        "release_date": "2014-07-07"
-    },
-    {
-        "id": 32,
-        "title": "Gurren Lagann",
-        "description": "A boy and his friends fight to free humanity from subterranean oppression using a giant robot.",
-        "release_date": "2007-04-01"
-    },
-    {
-        "id": 33,
-        "title": "Soul Eater",
-        "description": "Students at a school for weapon meisters fight to collect souls and protect the world from evil.",
-        "release_date": "2008-04-07"
-    },
-    {
-        "id": 34,
-        "title": "Blue Exorcist",
-        "description": "The son of Satan trains to become an exorcist to fight against his own kind.",
-        "release_date": "2011-04-17"
-    },
-    {
-        "id": 35,
-        "title": "KonoSuba",
-        "description": "A teenager is transported to a fantasy world and forms a dysfunctional party to defeat the Demon King.",
-        "release_date": "2016-01-13"
-    },
-    {
-        "id": 36,
-        "title": "Angel Beats!",
-        "description": "A group of students in the afterlife band together to fight against an enigmatic girl and their fate.",
-        "release_date": "2010-04-03"
-    },
-    {
-        "id": 37,
-        "title": "Elfen Lied",
-        "description": "A girl with deadly telekinetic powers escapes captivity, leaving a trail of destruction.",
-        "release_date": "2004-07-25"
-    },
-    {
-        "id": 38,
-        "title": "Made in Abyss",
-        "description": "A young girl and her robot companion venture into a mysterious abyss to find her missing mother.",
-        "release_date": "2017-07-07"
-    },
-    {
-        "id": 39,
-        "title": "Dr. Stone",
-        "description": "A genius scientist aims to rebuild civilization after humanity is mysteriously petrified for thousands of years.",
-        "release_date": "2019-07-05"
-    },
-    {
-        "id": 40,
-        "title": "Ao Haru Ride",
-        "description": "A girl reunites with her first love in high school, but their relationship is complicated by the past.",
-        "release_date": "2014-07-08"
-    },
-    {
-        "id": 41,
-        "title": "The Ancient Magus' Bride",
-        "description": "A girl with extraordinary abilities is sold to a sorcerer, who takes her as his apprentice and bride.",
-        "release_date": "2017-10-08"
-    },
-    {
-        "id": 42,
-        "title": "Parasyte: The Maxim",
-        "description": "A teenager battles against parasitic creatures that take over human bodies.",
-        "release_date": "2014-10-08"
-    },
-    {
-        "id": 43,
-        "title": "Hellsing",
-        "description": "The Hellsing Organization fights vampires and supernatural threats to protect humanity.",
-        "release_date": "2001-10-10"
-    },
-    {
-        "id": 44,
-        "title": "No Game No Life",
-        "description": "Two genius siblings are transported to a world where games decide everything.",
-        "release_date": "2014-04-09"
-    },
-    {
-        "id": 45,
-        "title": "Fate/Stay Night: Unlimited Blade Works",
-        "description": "Mages and their summoned heroes fight in a battle royale for the Holy Grail.",
-        "release_date": "2014-10-04"
-    },
-    {
-        "id": 46,
-        "title": "Yuri on Ice",
-        "description": "A figure skater gets a second chance in his career with the help of a renowned coach.",
-        "release_date": "2016-10-06"
-    },
-    {
-        "id": 47,
-        "title": "Kimi ni Todoke",
-        "description": "A shy girl struggles to make friends and find love due to her resemblance to a horror movie character.",
-        "release_date": "2009-10-07"
-    },
-    {
-        "id": 48,
-        "title": "Vinland Saga",
-        "description": "A young Viking seeks revenge for his father's death and becomes embroiled in a larger conflict.",
-        "release_date": "2019-07-08"
-    },
-    {
-        "id": 49,
-        "title": "Berserk",
-        "description": "A mercenary with a tragic past fights to survive in a dark, medieval world.",
-        "release_date": "1997-10-07"
-    },
-    {
-        "id": 50,
-        "title": "Trinity Seven",
-        "description": "A boy enrolls in a magical school to save his cousin and learn the secrets of magic.",
-        "release_date": "2014-10-08"
-    }
 ]
